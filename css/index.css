@@ -131,9 +131,13 @@ footer {
 }
 
 .ffooter h1 {
+    font-size: 1.5em;
     color: rgba(24, 123, 179, 0.81);
 }
 
 .ffooter a {
     color: red;
+}
+.ffooter p span {
+    display: inline-block;
 }
