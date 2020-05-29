@@ -57,6 +57,11 @@ figure {
     padding-top: 3em;
 }
 
+#feature_albums_tt a {
+    text-decoration: none;
+    color: rgba(24, 123, 179, 0.81);
+}
+
 #feature_albums {
     display: flex;
     justify-content: space-between;
